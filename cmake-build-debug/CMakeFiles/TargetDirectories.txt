@@ -1,0 +1,3 @@
+C:/Users/Legit/Desktop/TouhouSDK/cmake-build-debug/CMakeFiles/TouhouSDK.dir
+C:/Users/Legit/Desktop/TouhouSDK/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Legit/Desktop/TouhouSDK/cmake-build-debug/CMakeFiles/rebuild_cache.dir
