@@ -46,7 +46,7 @@ SDL2_handler::~SDL2_handler()
 
 void SDL2_handler::loadHelloWorld()
 {
-    std::string assetPath = SDKpath + "\\ScarletDevilKingdom\\handler\\assets\\hello_world.bmp";
+    std::string assetPath = SDKpath + "\\ScarletDevilKingdom\\assets\\hello_world.bmp";
     helloWorld = SDL_LoadBMP(assetPath.c_str());
 
     if (helloWorld == nullptr)
