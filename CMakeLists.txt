@@ -12,5 +12,6 @@ include_directories(${SDL2_INCLUDE_DIR})
 
 add_executable(TouhouSDK main.cpp
         "ScarletDevilKingdom/handler/SDL2_handler.cpp"
-        "ScarletDevilKingdom/handler/runGame.cpp")
+        "ScarletDevilKingdom/handler/runGame.cpp"
+)
 target_link_libraries(${PROJECT_NAME} ${SDL2_LIBRARY})

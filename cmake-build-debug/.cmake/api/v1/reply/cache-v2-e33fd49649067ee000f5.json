@@ -1347,7 +1347,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2.dll.a"
+			"value" : "mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2main.a;C:/Users/Legit/Documents/SDL2-2.28.5/x86_64-w64-mingw32/lib/libSDL2.dll.a"
 		},
 		{
 			"name" : "TouhouSDK_BINARY_DIR",

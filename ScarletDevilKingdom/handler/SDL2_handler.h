@@ -13,12 +13,14 @@ public:
 
     SDL_Window* window;
     SDL_Surface* surface;
-    SDL_Surface* helloWorld;
+    SDL_Surface* startScreen;
     std::string SDKpath;
 
     SDL2_handler();
     ~SDL2_handler();
-    void loadHelloWorld();
+    void loadStartScreen();
+    SDL_Surface* loadSurface(char* path);
+    void updateSurface(SDL_Surface*);
 };
 
 
